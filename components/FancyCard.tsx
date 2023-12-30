@@ -16,11 +16,7 @@ export default function FancyCard() {
             <Text style={styles.cardTitle}>Ram Mandir</Text>
             <Text style={styles.cardLabel}>Ayodhya, UP</Text>
             <Text style={styles.cardDescription}>
-            Ram Mandir is a Hindu temple being built at 
-            the site of Ram Janmabhoomi in Ayodhya which,
-            according to Ramayana, is the birthplace 
-            of Lord Shri Ram, an incarnation of Lord Vishnu 
-            of Hindu religion.</Text>
+            राम मन्दिर अयोध्या में राम जन्मभूमि के स्थान पर बनाया जा रहा एक हिन्दू मन्दिर है जहाँ रामायण के अनुसार, हिन्दू धर्म के भगवान विष्णु के अवतार भगवान श्रीराम का जन्मस्थान है।</Text>
         </View>
       </View>
     </View>
